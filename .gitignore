@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+*.db
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
+*.joblib
+*.pkl
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# Frontend
+frontend/dist/
+
+# Temp uploads
+backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Results
+model_results/
